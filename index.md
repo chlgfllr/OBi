@@ -11,6 +11,6 @@ salle 531C | salle 432C
 ### TD0 - 17/18 janvier  
 Si vous voulez vous entraîner à la mise en page comme proposé dans les consignes du TD0, voici le <a href="./source/obi-td0-consignes.odt">document .odt à modifier </a>(non disponible sur Moodle)  
 
-Pour télécharger les slides, faire clic droit + enregistrer une copie  
+Pour télécharger les slides, cliquer sur le lien > faire clic droit > enregistrer une copie  
 - [Slides LCAO](https://onedrive.live.com/embed?cid=1D5398B9BDC3F148&resid=1D5398B9BDC3F148%2155765&authkey=AHJPiZVjAaA80Es&em=2)  
 - [Slides Etudes Anglophones](https://onedrive.live.com/embed?cid=1D5398B9BDC3F148&resid=1D5398B9BDC3F148%2155766&authkey=APPMDhbM8nokyNw&em=2)
