@@ -13,3 +13,5 @@ salle 531C | salle 432C
 Si vous voulez vous entraîner à la mise en page comme proposé dans les consignes du TD0, voici le <a href="./source/obi-td0-consignes.odt">document .odt à modifier </a>(non disponible sur Moodle)
 
 <iframe src="https://onedrive.live.com/embed?cid=1D5398B9BDC3F148&resid=1D5398B9BDC3F148%2155766&authkey=APPMDhbM8nokyNw&em=2" width="476" height="288" frameborder="0" scrolling="no"></iframe>  
+
+[Doc](https://onedrive.live.com/embed?cid=1D5398B9BDC3F148&resid=1D5398B9BDC3F148%2155766&authkey=APPMDhbM8nokyNw&em=2)
