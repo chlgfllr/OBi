@@ -6,8 +6,9 @@ Groupe LCAO | Groupe Etudes Anglophones
 ------------ | -------------
 Mercredi 14h30-16h30 | Jeudi 14h00-16h00  
 salle 531C | salle 432C  
-S'inscrire sur la [Google spreadsheet dédiée](https://goo.gl/BiyVmh) | S'inscrire sur la [Google spreadsheet dédiée](https://goo.gl/h1SvhX) 
+S'inscrire sur la [Google spreadsheet dédiée](https://goo.gl/BiyVmh) | S'inscrire sur la [Google spreadsheet dédiée](https://goo.gl/h1SvhX)  
 
-{% raw %}
-<button onclick="window.open('/source/td0_ea.pdf')">Download</button>
-{% endraw %}
+
+```html
+<a href="/source/td0_ea.pdf" target="_blank">Download this PDF</a>
+```
