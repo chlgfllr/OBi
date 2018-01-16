@@ -2,8 +2,8 @@
 
 - [Cours sur Moodle](https://moodlesupd.script.univ-paris-diderot.fr/course/view.php?id=10115)  
 
-# **MERCREDI**  
-# Groupe LCAO : mercredi 14h30-16h30  
+# **MERCREDI** 14h30-16h30  
+# Groupe LCAO   
 salle 531C - Halle aux Farines
 
 ## TDO  
@@ -11,8 +11,8 @@ salle 531C - Halle aux Farines
 
 - S'inscrire sur la [Google spreadsheet](https://goo.gl/BiyVmh)  
 
-# **JEUDI**  
-# Groupe Etudes Anglophones : jeudi 14h00-16h00  
+# **JEUDI** 14h00-16h00  
+# Groupe Etudes Anglophones   
 salle 432C - Halle aux Farines  
 
 ## TD0  
