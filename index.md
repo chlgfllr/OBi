@@ -9,6 +9,4 @@ salle 531C | salle 432C
 S'inscrire sur la [Google spreadsheet dédiée](https://goo.gl/BiyVmh) | S'inscrire sur la [Google spreadsheet dédiée](https://goo.gl/h1SvhX)  
 
 
-```html
 <a href="/source/td0_ea.pdf" target="_blank">Download this PDF</a>
-```
