@@ -17,7 +17,7 @@ Si vous voulez continuer à vous entraîner à la mise en page (comme c'est prop
 - [Slides LCAO](https://onedrive.live.com/embed?cid=1D5398B9BDC3F148&resid=1D5398B9BDC3F148%2155765&authkey=AHJPiZVjAaA80Es&em=2)  
 - [Slides Etudes Anglophones](https://onedrive.live.com/embed?cid=1D5398B9BDC3F148&resid=1D5398B9BDC3F148%2155766&authkey=APPMDhbM8nokyNw&em=2)  
 
-**Pour télécharger le document .odt et les slides, cliquer sur le lien > clic droit > enregistrer une copie**  
+**Pour télécharger le document .odt et les slides, cliquer sur le lien puis clic droit > télécharger une copie**  
 
 ### Semaine du 22 janvier - semaine en distanciel  
 Entre le vendredi 19 janvier 18h30 et le vendredi 26 janvier 18h30 :   
