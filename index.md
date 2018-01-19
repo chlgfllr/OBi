@@ -12,7 +12,7 @@ salle 531C | salle 432C
 
 
 ### Semaine du 15 janvier - TD0  
-Si vous voulez continuer à vous entraîner à la mise en page (comme c'est proposé à la fin des consignes du TD0), voici le <a href="./source/obi-td0-consignes.odt">document .odt à modifier </a>(non disponible sur Moodle)  
+Si vous voulez continuer à vous entraîner à la mise en page (comme c'est proposé à la fin des consignes du TD0), voici le [document .odt à modifier](https://onedrive.live.com/embed?cid=1D5398B9BDC3F148&resid=1D5398B9BDC3F148%2155457&authkey=ACR9HKa-IAZfRYA&em=2) (non disponible sur Moodle)  
 
 Pour télécharger les slides, cliquer sur le lien > clic droit > enregistrer une copie  
 - [Slides LCAO](https://onedrive.live.com/embed?cid=1D5398B9BDC3F148&resid=1D5398B9BDC3F148%2155765&authkey=AHJPiZVjAaA80Es&em=2)  
