@@ -1,4 +1,5 @@
-# Cours Outils de Bureautique et internet  
+# Cours Outils de Bureautique et internet 
+{:toc}
 
 - [Cours sur Moodle](https://moodlesupd.script.univ-paris-diderot.fr/course/view.php?id=10115)  
 - [Lien pour ceux qui veulent en savoir plus sur le **pix**](https://pix.beta.gouv.fr/) (site officiel)  
@@ -12,14 +13,15 @@ salle 531C | salle 432C
 
 
 ### Semaine du 15 janvier - TD0  
+{:toc}
 Si vous voulez continuer à vous entraîner à la mise en page (comme c'est proposé à la fin des consignes du TD0), voici le [document .odt à modifier](https://onedrive.live.com/embed?cid=1D5398B9BDC3F148&resid=1D5398B9BDC3F148%2155457&authkey=ACR9HKa-IAZfRYA&em=2) (non disponible sur Moodle)  
 
+Pour télécharger les slides, cliquer sur le lien > clic droit > enregistrer une copie  
 - [Slides LCAO](https://onedrive.live.com/embed?cid=1D5398B9BDC3F148&resid=1D5398B9BDC3F148%2155765&authkey=AHJPiZVjAaA80Es&em=2)  
 - [Slides Etudes Anglophones](https://onedrive.live.com/embed?cid=1D5398B9BDC3F148&resid=1D5398B9BDC3F148%2155766&authkey=APPMDhbM8nokyNw&em=2)  
 
-**Pour télécharger le document .odt et les slides, cliquer sur le lien puis clic droit > télécharger une copie**  
-
 ### Semaine du 22 janvier - semaine en distanciel  
+{:toc}
 Entre le vendredi 19 janvier 18h30 et le vendredi 26 janvier 18h30 :   
 - Screencasts (vidéos pédagogiques) disponibles sur le Moodle du cours  
 - QCM à faire (comptent dans la note finale)  
