@@ -16,6 +16,6 @@ Entre le vendredi 19 janvier 18h30 et le vendredi 26 janvier 18h30 :
 - Screencasts (vidéos pédagogiques) disponibles sur le Moodle du cours  
 - QCM à faire (comptent dans la note finale)  
 
-### Semaine du 29 janvier - TD  
+### Semaine du 29 janvier - TD Traitement de texte et présentation assistée par ordinateur  
 - [Notes sur le déroulement du TD](https://onedrive.live.com/embed?cid=1D5398B9BDC3F148&resid=1D5398B9BDC3F148%2156088&authkey=AFC1KWKKjXUSNGQ&em=2)
 - [Ma courte fiche : exemple de réponse (pdf)](https://onedrive.live.com/embed?cid=1D5398B9BDC3F148&resid=1D5398B9BDC3F148%2157454&authkey=AN4Qh6n_DW7rOCU&em=2)
