@@ -19,3 +19,10 @@ Entre le vendredi 19 janvier 18h30 et le vendredi 26 janvier 18h30 :
 ### Semaine du 29 janvier - TD Traitement de texte et présentation assistée par ordinateur  
 - [Notes sur le déroulement du TD](https://onedrive.live.com/embed?cid=1D5398B9BDC3F148&resid=1D5398B9BDC3F148%2156088&authkey=AFC1KWKKjXUSNGQ&em=2)
 - [Ma courte fiche : exemple de réponse (pdf)](https://onedrive.live.com/embed?cid=1D5398B9BDC3F148&resid=1D5398B9BDC3F148%2157454&authkey=AN4Qh6n_DW7rOCU&em=2)
+
+### Semaine du 5 février - TD Traitement de texte et QCM + screencasts
+Le TD de la semaine du 12 février est avancé à la semaine du 5 février. Cours aux dates, horaires et salles habituels. 
+
+En plus, il faut regarder les screencasts et répondre aux QCM (qui comptent dans votre moyenne). 
+
+### Semaine du 12 février - pas cours
