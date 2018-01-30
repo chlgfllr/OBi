@@ -17,4 +17,4 @@ Entre le vendredi 19 janvier 18h30 et le vendredi 26 janvier 18h30 :
 - QCM à faire (comptent dans la note finale)  
 
 ### Semaine du 29 janvier - TD  
-
+[Notes du TD](https://fr.scribd.com/document/370351781/notes-td2)
