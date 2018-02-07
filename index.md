@@ -26,7 +26,7 @@ Entre le vendredi 19 janvier 18h30 et le vendredi 26 janvier 18h30 :
 ### Semaine du 5 février - TD Traitement de texte et QCM + screencasts
 Le TD de la semaine du 12 février est avancé à la semaine du 5 février. 
 
-- Cours LCAO : mercredi 7 février, 14h30-16h30, ~~salle 531C~~ **salle 551C**
+- Cours LCAO : mercredi 7 février, 14h30-16h30, ~~salle 551C~~ *cours annulé*
 - Cours Etudes anglophones : jeudi 8 février, 14h-16h, ~~salle 434C~~ **salle 436C**
 
 En plus, il faut regarder les screencasts et répondre aux QCM (qui comptent dans votre moyenne). 
