@@ -33,4 +33,4 @@ En plus, il faut regarder les screencasts et répondre aux QCM (qui comptent dan
 
 ### Semaine du 12 février  
 Groupe LCAO : cours reporté.  
-Mercredi 14h30-16h30, salle 531C. 
+Mercredi 14 février de 14h30 à 16h30, salle 531C
