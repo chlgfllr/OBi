@@ -35,6 +35,8 @@ En plus, il faut regarder les screencasts et répondre aux QCM (qui comptent dan
 Groupe LCAO : cours reporté.  
 Mercredi 14 février de 14h30 à 16h30, salle 531C
 
+----
+
 ### Semaine du 19 février
 
 - TD en salle
