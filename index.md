@@ -40,6 +40,17 @@ Mercredi 14 février de 14h30 à 16h30, salle 531C
 - TD en salle
 - Screencasts
 - QCM
+- Liens 
+    * [Neutralité du net](http://www.lemonde.fr/pixels/article/2017/12/14/les-etats-unis-abrogent-la-neutralite-du-net-un-principe-fondateur-d-internet_5229906_4408996.html)
+    * [Neutralité du Whopper](https://www.presse-citron.net/whooper-comprendre-principe-de-neutralite-net/)
+    * [GPS](https://www.numerama.com/tech/325146-comment-une-app-de-course-a-pied-pourrait-trahir-lemplacement-de-bases-militaires-secretes.html)
+    * [Dégooglisons internet](https://degooglisons-internet.org/alternative)
+    * [Framasoft](https://contributopia.org/fr/home/)
+    * [Scientists of America, site parodique](http://www.scientistsofamerica.com/)
+    * [Exemple d'article Scientists of America](http://www.scientistsofamerica.com/index.php?texte=107)
+    * [Reconnaître les true des fake news](https://twitter.com/brutofficiel/status/962606144756711424)
+    * [Test sur le plagiat (Université de Laval)](http://www.fsa.ulaval.ca/html/asp/plagiat/)
+    
 
 ### Semaine du 26 février
 Semaine de lecture
