@@ -2,7 +2,7 @@
 
 Groupe LCAO | Groupe Etudes Anglophones  
 ------------ | -------------
-[S'inscrire sur la Google spreadsheet dédiée](https://goo.gl/BiyVmh) | [S'inscrire sur la Google spreadsheet dédiée](https://goo.gl/h1SvhX)  
+[S'inscrire sur la Google spreadsheet dédiée](https://) | [S'inscrire sur la Google spreadsheet dédiée](https://)  
 
 ----
 
