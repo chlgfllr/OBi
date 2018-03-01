@@ -73,3 +73,5 @@ Semaine de lecture
 
 ### Semaine du 5 mars
 Examen Traitement de texte
+
+**Se présenter avec 15 minutes d'avance en salle 432C muni.e de sa carte d'étudiant, ou à défaut d'une pièce d'identité avec photo (carte d'identité, passeport, titre de séjour).** Les pass Navigo, carte bancaires et cartes vitales ne sont pas acceptés. 
