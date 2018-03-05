@@ -66,12 +66,23 @@ Mercredi 14 février de 14h30 à 16h30, salle 531C
 
 ----
 
-### Semaine du 26 février
+### Semaine du 26 février - pas cours
 Semaine de lecture
 
 ----
 
-### Semaine du 5 mars
+### Semaine du 5 mars - examen
 Examen Traitement de texte
 
 **Se présenter avec 15 minutes d'avance en salle 432C muni.e de sa carte d'étudiant, ou à défaut d'une pièce d'identité avec photo (carte d'identité, passeport, titre de séjour).** Les pass Navigo, carte bancaires et cartes vitales ne sont pas acceptés. 
+
+### Semaine du 12 mars - cours en distanciel
+Premier cours en distanciel sur le tableur
+
+- Screencasts
+- QCM
+
+### Semaine du 19 mars - TD
+
+
+
