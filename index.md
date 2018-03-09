@@ -82,7 +82,11 @@ Premier cours en distanciel sur le tableur
 - Screencasts
 - QCM
 
-### Semaine du 19 mars - TD
+### Semaine du 19 mars - TD Tableur
 
+**Rendre la PréAO sur Moodle avant le 23 mars 11 heures.**
 
+### Semaine du 26 mars - TD Tableur
+
+Dernier TD
 
